@@ -1,9 +1,9 @@
+import { Article, Brand, Cta, Feature, Navbar } from "./components";
+
 function App() {
   return (
     <div className="App">
-      <h1>
-        asdfasdfas
-      </h1>
+    
     </div>
   );
 }
